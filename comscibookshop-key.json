@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "comscibookshop-58419",
+  "private_key_id": "8eea3c25e4320373c6b946331af1b417d6fd45ac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQD1nSBbrTNFnyCi\nDH+6TSoJVvg4mCQvhdoZT814NzYvu4pYsECDGa6dtrjmNqAog3OFZEF4scakcF0V\nk/xcEitETJS5FYZW0IUl4HxTuKtfJ9p5m2Y2bfTeDq9NDId4a9EGTu1AzAZGVWPl\nJ/kS7QoWCc02XpHycDW33v1gdmhj8LGYhxhaV4d4O4yAzdwZk20PgRHGk8oO7O2B\nxe4WL94qpAAFoCQ5SAS6eFoP0IkKf9susGj9gK2dXq2Ve+mWSpG54YZHwJmxgii0\nKnutmzwj4VSdG8aK+LPEgmnxKCsu0/Dzvmw3Jk2MpQLLiOwL9mdPvPSP8Ayad9FE\nlaxGITOtAgMBAAECggEAJhpdJbvF43wfPOSBgC5uYgqK8YSwwGqcfibCMm8mSdtn\nSAD30R7P1wm8v4Ij8IUMC9qUyZuSvHnuBuXxVXtAGRVkUR5Eu/0XWtvrjbVtaJKv\nMwRno/QE89oFWgeikIzxXXArIE1Gf+zJVYiQ/F2nnemhW1jqfVjpDIBcgHV+Flq3\n9OicnHwBzqta7y4TflmwW3On8yAwFfyQYo2xnaB879XwWIwXl52x/Ue0JGB0yBqI\nFqVHNVEuw4zGMs8hyOrSc29bKXBmszp+kwmk7oSzCugPMqHyf57ZkpfwWHvdj6wZ\nso498V9tZB6x5tGki/1M+xVwav2bwEMvmWdG1BzjpQKBgQD8LjIwx4fgMAxOwEQU\n4oqgtOVRyUiMhLZ1KgyRI/Jvnub7EFzGKoXdwnpYalAzSBO7FuFgLpQU+wfBY/Jt\nOlkCUF/lcAMTtr/ZkBUcJ/p35GaIluE2etICRVsyWAlHqACbC/0Nl6SMcBKcYAX/\nS5AmD0/gFoACs86Q7gO777cpJwKBgQD5VXf94U4l3hLzDmSYpbgHn3lYOu4LtIxf\nibQSNJXZGOxG1zATjxDfj23xoVtXokKf7MSJybPDmNvGqU7AkbYz7bQfk4pBH3dB\nBuuM/fhaGeJVG/ruS7EgGV1hPABlMAPfUYk0734o3NCxkV4g23Iw0y/UrxG/eUH+\nYNI9zhl5CwKBgQDlG79Dq/OZTW3RGkKASvUxXke9T0aXS3dM6P/z2RnIKTCmxk3T\nSAzI1Yg7zZLBlGlAn1/w90BX810vaPN2Iv186bLGC0bwYSbZrVpQc03OIPa6f4Fq\n8pjbsVFSYsNDk7HBK1ojQDMh2CxAX8jzER6MRXsHFsoEKoGwEF3aH8ZjHwKBgQCr\nNIXtPW0U0XV/ki1/J6PDED0ZWXWlcfdFjt+n9JXEebmcNxybAYzbhbg/x8VZ2mAX\nQlP+LRMTxv16Xz1lO2i6JYmeeQfhCcMwUpkhui5zZ/yi5lCamjzoxqH5J2M6GAtA\np9MoFx8w3dcrZp8UvrqdThY023W7XX70NfWHXOLe2wKBgQDzJ38FaUKwH2DkeVy4\njZ6Xv7eRat26GXxlhNCZZMUtD6WUg0vvuvn4EcYex4PiZw7oazVRQxIgSU+2wblm\nPOaU4P8xbUOPn8kvy/8Ns1hsE4hUxZa9fRFPOIJGVAwsOoc4S8pYb4hcGIUwzCul\n8xvyNNJe/D2QXYkOR0awIHBydw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-ox73z@comscibookshop-58419.iam.gserviceaccount.com",
+  "client_id": "102110052783596226012",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ox73z%40comscibookshop-58419.iam.gserviceaccount.com"
+}
